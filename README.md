@@ -2,6 +2,8 @@
 
 My [Emacs](https://www.gnu.org/software/emacs/) / [Doom Emacs](https://github.com/doomemacs/doomemacs) config.
 
+![Screenshot of terminal](./docs/screenshot.png)
+
 ## Installation
 
 Clone this repo into `~/.config/doom`:
